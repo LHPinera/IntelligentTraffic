@@ -1,0 +1,2 @@
+# IntelligentTraffic
+MODULO DE LECTURA DE REPUVE
