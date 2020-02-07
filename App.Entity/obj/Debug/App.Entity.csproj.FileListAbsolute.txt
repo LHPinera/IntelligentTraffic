@@ -1,0 +1,12 @@
+C:\Users\Carlos\source\repos\IntelligentTraffic\App.Entity\bin\Debug\App.Entity.dll
+C:\Users\Carlos\source\repos\IntelligentTraffic\App.Entity\bin\Debug\App.Entity.pdb
+C:\Users\Carlos\source\repos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\source\repos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.dll
+C:\Users\Carlos\source\repos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.pdb
+C:\Users\Carlos\Desktop\Trabajo\Desarrollos\IntelligentTraffic\App.Entity\bin\Debug\App.Entity.dll
+C:\Users\Carlos\Desktop\Trabajo\Desarrollos\IntelligentTraffic\App.Entity\bin\Debug\App.Entity.pdb
+C:\Users\Carlos\Desktop\Trabajo\Desarrollos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Trabajo\Desarrollos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Trabajo\Desarrollos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.dll
+C:\Users\Carlos\Desktop\Trabajo\Desarrollos\IntelligentTraffic\App.Entity\obj\Debug\App.Entity.pdb
